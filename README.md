@@ -1,5 +1,6 @@
 # ICOCO-iOS
-ICOCO provides crypto currency ICO list and news.
+* ICOCO provides crypto currency ICO list and news.
+* [App Store](https://itunes.apple.com/kr/app/id1342680261)
 
 # Requirements
 * iOS 10.0+
