@@ -1,6 +1,5 @@
 # ICOCO-iOS
 ICOCO provides crypto currency ICO list and news.
-\
 
 # Requirements
 * iOS 10.0+
@@ -10,16 +9,14 @@ ICOCO provides crypto currency ICO list and news.
 * Ico Bench Public/Private Key \
   : https://icobench.com/developers \
   : Set into ProjectRootDir/ICOCO/ICOCO/PrBase/Config.swift
-\
 
 # Install
 * [CocoaPods](https://cocoapods.org) \
-  : CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects. \
+  : CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects.
   <pre><code>$ gem install cocoapods</code></pre>
 * Libraries \
-  : In the project root directory. \
+  : In the project root directory.
   <pre><code>$ pod install</code></pre>
-\
 
 # Libraries
 * Alamofire \
