@@ -6,8 +6,8 @@ ICOCO provides crypto currency ICO list and news.
 * Xcode 9.0+
 * Swift 4.0+
 * CocoaPods
-* Ico Bench Public/Private Key
-  : https://icobench.com/developers
+* Ico Bench Public/Private Key\n
+  : https://icobench.com/developers \n
   : Set into ProjectRootDir/ICOCO/ICOCO/PrBase/Config.swift
 
 # Install
