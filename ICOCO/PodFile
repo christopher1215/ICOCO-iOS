@@ -1,0 +1,18 @@
+platform :ios, '10.0'
+
+def common_pods
+  pod 'Alamofire', '4.6.0' # 'https://github.com/Alamofire/Alamofire'
+  pod 'ObjectMapper', '3.1.0' # 'https://github.com/Hearst-DD/ObjectMapper'
+  pod 'SWXMLHash', '4.3.6' # https://github.com/drmohundro/SWXMLHash
+  pod 'SwiftSoup', '1.6.0' # https://github.com/scinfu/SwiftSoup
+end
+
+def crypto_pods
+  pod 'CryptoSwift', '0.8.1' # 'https://github.com/krzyzanowskim/CryptoSwift'
+end
+
+target 'ICOCO' do
+  use_frameworks!
+  common_pods
+  crypto_pods
+end
